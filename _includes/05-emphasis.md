@@ -1,1 +1,7 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+### _Attributes and Skills_
+- **Learning Python**
+- **Learning GitHub**
+- _Organized_
+- Enjoy _Investigating_
+- **Logical Thinking**
+- Have mad tennis skills
