@@ -1,1 +1,3 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+Have strength, courage and determination!
+Be like Yaktocat!
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
